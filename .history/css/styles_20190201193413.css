@@ -154,6 +154,6 @@ padding: 20px 0;
 
  @media (max-width: 880px) {
      .contact-message {width: 80%;}
-     .profile{width: 80%;}
-     .skill-row{width: 80%;}
+     .profile{}
+     .skill-row{}
  }
